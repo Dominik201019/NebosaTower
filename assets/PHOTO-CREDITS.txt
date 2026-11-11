@@ -1,0 +1,7 @@
+Wrocław city center panorama from Sky tower 2022-07-31.jpg
+Author: Alexey Vazhnov
+Source: https://commons.wikimedia.org/wiki/File:Wroc%C5%82aw_city_center_panorama_from_Sky_tower_2022-07-31.jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/c/c7/Wroc%C5%82aw_city_center_panorama_from_Sky_tower_2022-07-31.jpg
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+Original image distributed unmodified. At runtime it may be downsampled for GPU limits and displayed on a cylindrical surface with a narrow edge fade. These display adaptations remain CC BY-SA 4.0. The rear backdrop repeats this photograph; it is not a real georeferenced 360-degree survey or a view from an actual Nebosa location.
